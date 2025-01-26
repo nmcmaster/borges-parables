@@ -2,7 +2,7 @@
 
 import { useState } from 'react'
 import Image from 'next/image'
-import ImageModal from './ImageModal'
+import ImageModal from '@/ui/ImageModal'
 
 const images = [
   { 
