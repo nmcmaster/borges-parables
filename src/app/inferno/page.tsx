@@ -13,7 +13,7 @@ export default function Inferno() {
 				priority
 			/>
 
-			<div className="relative z-10 px-4 py-6">
+			<div className="relative z-10 px-8 py-6">
 				<h1 className="text-2xl text-center pb-4 italic font-medium">
 					Inferno, 1, 32
 				</h1>
