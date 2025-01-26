@@ -4,6 +4,7 @@ import { useState } from 'react'
 import Image from 'next/image'
 import ImageModal from '@/app/quixote/ImageModal'
 
+
 const images = [
   { 
     src: '/quixote/daliquixote.jpg', 
