@@ -37,11 +37,14 @@ export default function Quixote() {
 					<div>
 						Vanquished by reality, by Spain, Don Quixote died in his
 						native village in the year 1614. He was survived but a
-						short time by Miguel de Cervantes. For both of them, for
-						the dreamer and the dreamed one, the whole scheme of the
-						work consisted in the opposition of two worlds: the
-						unreal world of the books of chivalry, the ordinary
-						everyday world of the seventeenth century.
+						short time by Miguel de Cervantes.{" "}
+					</div>
+					<div>
+						For both of them, for the dreamer and the dreamed one,
+						the whole scheme of the work consisted in the opposition
+						of two worlds: the unreal world of the books of
+						chivalry, the ordinary everyday world of the seventeenth
+						century.
 					</div>
 					<div>
 						They did not suspect that the years would finally smooth
@@ -54,7 +57,7 @@ export default function Quixote() {
 						For in the beginning of literature is myth, and in the
 						end as well.
 					</div>
-					<div>Translated by J.E.I.</div>
+					<div><span className="italic">Translated by</span> J.E.I.</div>
 				</div>
 				<ImageGallery />
 			</div>

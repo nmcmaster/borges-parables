@@ -51,7 +51,9 @@ export default function Inferno() {
 						recuperate or even glimpse, for the machinery of the
 						world is much too complex for the simplicity of men.{" "}
 					</div>
-					<div>Translated by J. E. I.</div>
+					<div>
+						<span className="italic">Translated by</span> J. E. I.
+					</div>
 				</div>
 				<ImageGallery />
 			</div>
