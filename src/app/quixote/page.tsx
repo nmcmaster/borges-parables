@@ -1,10 +1,11 @@
 import Image from "next/image";
+import ImageGallery from "./ImageGallery";
 
 export default function Quixote() {
 	return (
 		<div className="relative min-h-screen before:absolute before:inset-0 before:bg-white/90 before:z-0">
 			<Image
-				src="/daumier_quixote2.jpg"
+				src="/backgrounds/quixote_background.jpg"
 				alt="Don Quixote background"
 				fill
 				className="object-cover -z-10"
@@ -55,6 +56,7 @@ export default function Quixote() {
 					</div>
 					<div>Translated by J.E.I.</div>
 				</div>
+				<ImageGallery />
 			</div>
 		</div>
 	);
