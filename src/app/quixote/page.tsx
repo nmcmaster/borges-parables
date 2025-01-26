@@ -57,7 +57,9 @@ export default function Quixote() {
 						For in the beginning of literature is myth, and in the
 						end as well.
 					</div>
-					<div><span className="italic">Translated by</span> J.E.I.</div>
+					<div>
+						<span className="italic">Translated by </span> J.E.I.
+					</div>
 				</div>
 				<ImageGallery />
 			</div>

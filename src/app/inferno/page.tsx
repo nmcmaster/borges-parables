@@ -52,7 +52,7 @@ export default function Inferno() {
 						world is much too complex for the simplicity of men.{" "}
 					</div>
 					<div>
-						<span className="italic">Translated by</span> J. E. I.
+						<span className="italic">Translated by </span> J.E.I.
 					</div>
 				</div>
 				<ImageGallery />
